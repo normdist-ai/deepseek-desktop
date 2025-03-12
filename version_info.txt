@@ -1,0 +1,36 @@
+# UTF-8
+#
+# 版本信息格式参考: https://learn.microsoft.com/en-us/windows/win32/menurc/versioninfo-resource
+
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(1, 0, 1, 5),
+    prodvers=(1, 0, 0, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo(
+      [
+        StringTable(
+          '040904B0',  # 语言和编码（中文简体: 0x0804，英文: 0x0409）
+          [
+            StringStruct('CompanyName', 'NormDist Studio'),
+            StringStruct('FileDescription', 'DeepSeek Desktop Client'),
+            StringStruct('FileVersion', '1.0.0.0'),
+            StringStruct('ProductName', 'DeepSeek'),
+            StringStruct('ProductVersion', '1.0.1'),            
+            StringStruct('LegalCopyright', '© 2025 NormDist.com. All rights reserved.'),
+            StringStruct('InternalName', 'Quercus Robur'),            
+            StringStruct('OriginalFilename', 'deepseek.exe'),
+          ]
+        )
+      ]
+    ),
+    VarFileInfo([VarStruct('Translation', [0x409, 1200])])  # 英文 + UTF-8
+  ]
+)
