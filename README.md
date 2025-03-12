@@ -8,6 +8,10 @@ DeepSeek Desktop 是一个基于 PySide2 的桌面应用，用于快速访问 De
 本软件是一个第三方项目，与 DeepSeek 官方服务无关，仅供学习参考。
 
 
+#### 下载地址
+
+[https://github.com/normdist-ai/deepseek-desktop/releases/download/DeepSeek/deepseek-desktop-1.0.1.sfx.exe](https://github.com/normdist-ai/deepseek-desktop/releases/download/DeepSeek/deepseek-desktop-1.0.1.sfx.exe)
+
 #### 编译方法
 
 ##### 创建虚拟环境
