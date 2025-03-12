@@ -7,6 +7,7 @@ DeepSeek Desktop 是一个基于 PySide2 的桌面应用，用于快速访问 De
 本软件是一个 Python 练习项目。
 本软件是一个第三方项目，与 DeepSeek 官方服务无关，仅供学习参考。
 
+![ScreenShot](https://raw.githubusercontent.com/normdist-ai/deepseek-desktop/refs/heads/main/screenshot.png)
 
 #### 下载地址
 

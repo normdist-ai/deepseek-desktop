@@ -7,6 +7,8 @@ This software is built based on PySide2 and packaged with PyInstaller.
 This software is a Python practice project.
 This software is a third-party project and has nothing to do with DeepSeek official services, it is only for learning and reference.
 
+![ScreenShot](https://raw.githubusercontent.com/normdist-ai/deepseek-desktop/refs/heads/main/screenshot.png)
+
 #### Download
 
 [https://github.com/normdist-ai/deepseek-desktop/releases/download/DeepSeek/deepseek-desktop-1.0.1.sfx.exe](https://github.com/normdist-ai/deepseek-desktop/releases/download/DeepSeek/deepseek-desktop-1.0.1.sfx.exe)
